@@ -14,4 +14,4 @@ you can run the `questrest.sql` in mysql to create the user and database used in
 
 ## Routes
 
-You can import the PostMan in the file `Quest-Rest.postman_collection`to test the routes.
+You can import the PostMan file `Quest-Rest.postman_collection` to test the routes.
